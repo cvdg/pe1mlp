@@ -1,6 +1,7 @@
 # Cees van de Griend, PE1MLP
 
-- Call sign: PE1MLP
-- QTA locator: JO21BV
+- QTH locator: JO21BV
+- email [pe1mlp@amsat.org](mailto:pe1mlp@amsat.org)
 
-[Journal](journal/index.md)
+## Journal
+- [Index](journal/index.md)
